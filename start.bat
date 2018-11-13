@@ -1,0 +1,4 @@
+@echo off
+
+server
+pause
